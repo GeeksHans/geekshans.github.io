@@ -6,8 +6,8 @@
 - school：
 - profession：
 - working years：
-- technical blog：[Link](url)
-- Github：
+- technical blog：[https://blog.csdn.net/boker_han]
+- Github：[https://github.com/GeeksHans]
 
 ## Working experience
 ### 字节跳动（2019.06.28 ~ 至今）
