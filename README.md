@@ -19,7 +19,7 @@
 
 ## Skill stack
 1. Java、Kotlin
-2. 
+2. Android
 
 ## Self-evaluation
 
